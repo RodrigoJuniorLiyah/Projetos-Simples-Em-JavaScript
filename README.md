@@ -13,51 +13,55 @@
 </p>
 
 ## 1º Projeto - Urna Eletrônica 🐱‍🏍
+
 <p>
   As principais funcionalidades de uma urna real foram aplicadas aqui.
   <br>
   <br>
-  1 - <b>Ao escolher um número de um candidato existente ele aparece na tela.<b>
+  1 - <b>Ao escolher um número de um candidato existente ele aparece na tela.</b>
   <br>
   <br>
-  2 - <b>É possível corrigir o VOTO, todos os números são removidos<br>
-  <b>
+  2 - <b>É possível corrigir o VOTO, todos os números são removidos</b>
   <br>
-  3 - <b>É possível votar BRANCO<b>
+  <br>
+  3 - <b>É possível votar BRANCO</b>
   <div align="center">
     <img src="./gifs/Urna.gif" alt="gif da urna eletronica">
   </div>
 </p>
 
 ## 2º Projeto - Slider 🐱‍👤
+
 <p>
   Slider simples, com imagens sendo passadas automaticamente para a direita
   <br>
   <br>
-  1 - <b>Botão para passar a imagem para a esquerda e para a direita manualmente<b>
+  1 - <b>Botão para passar a imagem para a esquerda e para a direita manualmente</b>
   <br>
   <br>
-  2 - <b>imagens sendo passadas automaticamente a cada 2 segundos<b>
+  2 - <b>imagens sendo passadas automaticamente a cada 2 segundos</b>
 </p>
 <div align="center">
 <img src="./gifs/slider.gif" alt="gif de um slider">
 </div>
 
 ## 3º Projeto - Formulário 🐱‍💻
+
 <p>
   Formulário simples, com registro de nome, e-mail e senha.
   <br>
   <br>
-  1 - O formulário não é enviado caso esteja em branco
+  1 - <b>O formulário não é enviado caso esteja em branco</b>
   <br>
   <br>
-  2 - Aparece um aviso personalizado para cada input, avisando qual o problema que está ocorrendo.
+  2 - <b>Aparece um aviso personalizado para cada input, avisando qual o problema que está ocorrendo.</b>
 </p>
 <div align="center">
 <img src="./gifs/formulario.gif" alt="gif de um formulario">
 </div>
 
 ## 🚀 Tecnologias utilizadas
+
 Essas foram as tecnologias utilizadas para a produção destes projetos
 
 - ✔ HTML
