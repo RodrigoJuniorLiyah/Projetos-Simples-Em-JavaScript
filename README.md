@@ -56,3 +56,10 @@
 <div align="center">
 <img src="./gifs/formulario.gif" alt="gif de um formulario">
 </div>
+
+## 🚀 Tecnologias utilizadas
+Essas foram as tecnologias utilizadas para a produção destes projetos
+
+- ✔ HTML
+- ✔ CSS
+- ✔ JavaScript
