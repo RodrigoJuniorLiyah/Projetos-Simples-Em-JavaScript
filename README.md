@@ -5,14 +5,14 @@
 </h1>
 <br>
 <p align="center">
-  Este projeto é: um conjunto de projetos feito em JavaScript puro.
+  Este projeto é: um conjunto de projetos feito em JavaScript puro.<br>
   Foram feitos 3 projetos:<br> 
   urna eletrônica virtual<br>
   Slider com imagens passando automaticamente<br>
   formulário simples.
 </p>
 
-## 1º Projeto - Urna Eletrônica🐱‍🏍
+## 1º Projeto - Urna Eletrônica 🐱‍🏍
 <p>
   As principais funcionalidades de uma urna real foram aplicadas aqui.
   <br>
@@ -29,7 +29,7 @@
   </div>
 </p>
 
-## 2º Projeto - Slider
+## 2º Projeto - Slider 🐱‍👤
 <p>
   Slider simples, com imagens sendo passadas automaticamente para a direita
   <br>
@@ -43,10 +43,16 @@
 <img src="./gifs/slider.gif" alt="gif de um slider">
 </div>
 
-## 3º Projeto - Formulário
+## 3º Projeto - Formulário 🐱‍💻
 <p>
   Formulário simples, com registro de nome, e-mail e senha.
   <br>
   <br>
-  1
+  1 - O formulário não é enviado caso esteja em branco
+  <br>
+  <br>
+  2 - Aparece um aviso personalizado para cada input, avisando qual o problema que está ocorrendo.
 </p>
+<div align="center">
+<img src="./gifs/formulario.gif" alt="gif de um formulario">
+</div>
